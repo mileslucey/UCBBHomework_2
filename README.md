@@ -1,6 +1,6 @@
 # The VBA of Wall Street
 ## Summary
-* A homework assignment for UC Berkeley's data analytics bootcamp
+* A homework assignment for UC Berkeley's Data Analytics Bootcamp
 * Visual Basic Script loops through three years of stock price data for several companies
 * The script calculates metrics like total volume, annual change in dollar value, and annual percentage change in dollary value for each of the stocks across all three years
 * The script also locates the stocks with the greatest annual percentage increases in value, greatest annual percentage decreases in value, and greatest total annual volumes
