@@ -1,6 +1,7 @@
 # The VBA of Wall Street
-## Background
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+## Summary
+* A homework assignment for UC Berkeley's data analytics bootcamp
+* Visual Basic Script loops through three years of stock price data for several companies. The script calculates metrics like total volume, annual change in dollar value, and annual percentage change in dollary\ value for each of the stocks across all three years. The script also locates the stocks with the greatest annual percentage increases in value, greatest annual percentage decreases in value, and greatest total annual volumes.
 ### Files
 * The Multiple_year_stock_data.xlsx file in the "Resources" folder is the stock data used in this analysis
 * The financial_analysis_scripts.vbs is the Visual Basic Script file that can be used with the Multiple_year_stock_data.xlsx file to answer the questions listed in the instructions below
